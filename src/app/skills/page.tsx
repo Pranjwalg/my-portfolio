@@ -18,7 +18,7 @@ import postman from '../../../public/postman.png'; // Add Postman image
 import restapi from '../../../public/api.png'; // Add REST API image
 import socketio from '../../../public/socket.png'; // Add Socket.io image
 import bootstrap from '../../../public/bootstrap.png'; // Add Bootstrap image
-import v from '../../../public/vercel.png'; // Add Vercel image
+import vercel from '../../../public/Vercel.png'; // Add Vercel image
 import FramerWrapper from "@/components/FramerWrapper";
 import mysql from '../../../public/mysql.png';
 const skillPage = () => {
@@ -41,7 +41,7 @@ const skillPage = () => {
         {alt: "restapi", img: restapi}, // Added REST API
         {alt: "socket.io", img: socketio}, // Added Socket.io
         {alt: "bootstrap", img: bootstrap}, // Added Bootstrap
-        {alt: "vercel", img: v}, // Added Vercel
+        {alt: "vercel", img: vercel}, // Added Vercel
     ];
 
     const databases = [
