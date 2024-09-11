@@ -2,7 +2,7 @@
 
 A simple and Beautiful Porfolio made with Nextjs and Shadcn Ui.
 
-![Demo]("https://my-portfolio-afk7.vercel.app/")
+![Demo]("/public/og-image.png")
 
 ## Getting Started
 
