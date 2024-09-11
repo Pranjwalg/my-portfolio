@@ -8,8 +8,8 @@ import DownLoadResumeBtn from "@/components/DownLoadResumeBtn";
 import FramerWrapper from "@/components/FramerWrapper";
 
 export const siteConfig = {
-  name: "Pranjwal Gupta",
-  description: "I am a Passionate Software Developer",
+  name: "Pranjwal Gupta-Portfolio",
+  description: "I am a Passionate Full Stack Developer",
   ogImage: "https://my-portfolio-afk7.vercel.app/og-image.png",
   url: "https://my-portfolio-afk7.vercel.app/",
 };
