@@ -61,9 +61,11 @@ const ProjectCards: React.FC<ProjectCardProps> = ({ value, num }) => {
       duration={0.15}
     >
       <Card className="w-full h-full shadow-md hover:shadow-lg transition-shadow duration-300">
-        <CardHeader className="bg-gradient-to-r from-blue-500 to-teal-400 text-white rounded-t-md">
-          <CardTitle className="text-xl font-bold">{value.title}</CardTitle>
-        </CardHeader>
+      <CardHeader className="bg-gradient-to-r from-blue-500 to-teal-400 text-white rounded-t-md">
+        <CardTitle className="text-xl font-bold bg-gradient-to-r from-yellow-400 via-red-500 to-pink-600 bg-clip-text text-transparent">
+          {value.title}
+        </CardTitle>
+      </CardHeader>
         <CardContent>
           <p className="text-base font-poppins text-gray-700">
             {value.description

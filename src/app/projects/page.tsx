@@ -8,14 +8,14 @@ const projectsPage = () => {
   // PROJECTS DATA
   const Projects = [
     {
-      title: "VisaLiv",
+      title: "VisaLiv: (A Global Platform for Simplified Visa and Immigration Information)",
       description:
         "Led the full development of VisaLiv's front-end, a premier online destination for comprehensive and up-to-date visa and immigration information. VisaLiv simplifies the complexities of visa processes by empowering users with accurate, reliable, and free information for all countries.",
       tags: ["ReactJs", "Nextjs", "Bootstrap", "Redis", "CSS", "API", "Middleware"],
       link: "https://visaliv.com/",
     },
     {
-      title: "Sailax-DBC",
+      title: "Sailax DBC: (Transforming Professional Networking with Digital Business Cards)",
       description:
         "Enhanced the Sailax DBC platform, which revolutionizes networking with digital business cards that offer customizable designs, real-time tracking, advanced QR codes, chats, portfolio features, and more. With a focus on seamless user experience, Sailax DBC transforms how users share and manage their professional connections, featuring powerful analytics for networking insights.",
       tags: ["Nextjs", "Typescript", "Shadcn UI", "React-Icons", "Socket.io", "NextUI", "react-query"],
