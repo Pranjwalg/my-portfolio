@@ -7,7 +7,7 @@ import FramerWrapper from "./FramerWrapper";
 const SocialLinks = () => {
   const links = [
     { name: "Linkedin", link: "https://www.linkedin.com/in/pranjwal-gupta/", icon: <Linkedin /> },
-     { name: "Portfolio", link: "https://my-portfolio-afk7.vercel.app/", icon: <ExternalLink /> },
+     { name: "Portfolio", link: "https://pranjwal.vercel.app/", icon: <ExternalLink /> },
   ];
 
   return (
